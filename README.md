@@ -9,7 +9,7 @@
 ## Future Projects
 <ul>
     <li>I eventually want to make a octopath traveler like game in unity which is heavily story and mechanics based
-    <li>I want to create a physics engine to test my knowledge my physics class in my school
+    <li>I want to create a physics engine to test my knowledge from my physics class in my school
 </ul>
 
 
