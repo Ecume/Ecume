@@ -12,7 +12,7 @@
     <li>Python
     <li>Rust
     <li>C#
-    <li>Arduino C++
+    <li>C++
 </ul>
 
 
