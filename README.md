@@ -8,7 +8,7 @@
 
 ## Languages
 <ul>
-    <li>Java ![fa-icon](https://fontawesome.com/icons/icon-name)
+    <li>Java
     <li>Python
     <li>Rust
     <li>C#
