@@ -23,7 +23,3 @@
     <li>Since I have an interest cars, I want to make a car tuning software 
 </ul>
 
-## Picture of me
-
-![alt text](https://madmuseum.org/sites/default/files/styles/5_x_3/public/2019/02/Ghost%20in%20the%20Shell_01_0.jpg?itok=vdR3Dmle)
-
