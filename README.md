@@ -8,11 +8,11 @@
 
 ## Languages
 <ul>
-    <li>Java
-    <li>Python
-    <li>Rust
-    <li>C#
-    <li>C++
+    <li>Java (fluent)
+    <li>Python (fluent)
+    <li>Rust (learning)
+    <li>C# (fluent)
+    <li>C++ (learning)
 </ul>
 
 
